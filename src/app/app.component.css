@@ -1,0 +1,19 @@
+.image{
+    border: black solid 3px;
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+.bor{
+    border: black solid 3px;
+}
+.block{
+    display: block;
+}
+.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 210px;
+}

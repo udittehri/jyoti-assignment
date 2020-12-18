@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "assignment-jyoti"
+    }
+  },
+  "defaultProject": "assignment-jyoti",
+  "cli": {
+    "analytics": "2fd0fd24-aa69-4120-8c2d-43f87af145b6"
+  }
 }
